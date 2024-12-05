@@ -1,0 +1,66 @@
+<html>
+    <head><title>Mens Fashion</title></head>
+    <style>
+        body{
+            background-image: url('https://png.pngtree.com/background/20230519/original/pngtree-store-full-of-in-a-dark-room-picture-image_2654942.jpg');
+            background-size: cover;
+            background-repeat: no-repeat; 
+        }
+        h4{
+            color: rgb(255, 255, 255);
+            font-size: 30px;
+        }
+        h2 {
+            display: inline; /* Make h2 an inline element */
+            font-size: 30px;
+            margin-right: 800px; /* Add some space between h2 and the link */
+            color: rgb(0, 110, 195);    
+        }
+        a {
+            display: inline; /* Ensure the link stays inline */
+            color: rgb(0, 110, 195); /* Optional: Change the link color */
+            font-size: 20px;
+            text-decoration: none; /* Optional: Remove underline */
+        }
+        h1{
+            color: rgb(255, 255, 255);
+            text-shadow: 10px 10px 10px rgb(0, 174, 255);
+            TEXT-ALIGN:CENTER;
+            font-size: 50px;
+        }
+        #col{
+            background-color: rgb(255, 255, 255);
+        }
+        #ima{
+            display: flex;
+            justify-content: center;
+        }
+        mark{
+            background-color:  rgb(0, 174, 255);
+            color: white;
+        }
+        #imb{
+            display: flex;
+            justify-content: center;
+        }
+        #imc{
+            display: flex;
+            justify-content: center;
+        }
+        P{
+                color: rgb(255, 255, 255);
+                text-align: center;
+                font-size: 27px;
+                background-color: rgba(0, 0, 0, 0.5);
+            }
+    </style>
+     <body>
+        <h1> MAX &nbsp;FASHIONS </h1>
+        <div id="col">
+            <H2><b>Fashion Awaits</b></h2><a href="max home.html"><b>Home</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="branch.html"><b>Branches</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="MAX LOGIN PAGE.html"><b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><a href="contact.html" ><b>Contact</b></a>
+        </div><br><br><br><br>
+        <h1>Contact Details</h1>
+        <p>
+            <br><b>Mail at</b><br><br>&nbsp;&nbsp;maxcustomer@gmail.com<br><br><br><b>For Any Issues Contact<br></b><br>1800-123-1444<br><br><br><b>Customer Care Head Office <br></b><br>&nbsp;&nbsp;M-25, basement, shop No 7, G K Mkt-1 New Delhi, Delhi, 110048 India<br><br>
+        </p>
+    </body>
